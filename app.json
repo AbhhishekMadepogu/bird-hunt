@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bird-hunt",
+    "slug": "bird-hunt",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "bird-hunt"
+}
