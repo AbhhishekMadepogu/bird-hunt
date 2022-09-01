@@ -31,7 +31,7 @@ export default (world, color, pos, size,label) => {
        pos.y,
        size.width,
        size.height,
-       {label: {label},isStatic:true}
+       {label: {label},isStatic:tr}
    )
    Matter.World.add(world, initialObstacle)
 
